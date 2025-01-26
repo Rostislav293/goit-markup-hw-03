@@ -247,8 +247,6 @@ align-items: center;
   padding: 32px 0;
   border: 1px solid #e7e9fc;
   border-top: none;
-  background-color: #ffffff;
-  background-color: #ffffff;
   width: calc((100% - 72px) / 4);
 min-width: 232px;
   
@@ -257,9 +255,9 @@ min-width: 232px;
 .people-list{
   flex-wrap: nowrap;
   display: flex;
-  gap: 24px;
-  row-gap: 48px;
- 
+  gap: 24px; 
+
+
 }
 
 .people-item {
