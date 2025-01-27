@@ -309,14 +309,12 @@ padding-bottom: 120px;
   color: #e7e9fc;
   padding: 120px 0;
    
-
 }
 
 .portfolio-container{
   padding: 32px 16px;
-  
+ 
 }
-
 
 .portfolio-title {
   font-family: "Roboto", sans-serif;
@@ -331,24 +329,22 @@ padding-bottom: 120px;
 
 }
 
-
-
 .portfolio-list {
   color: #e7e9fc;
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  
-
 }
 .portfolio-item {
   width: calc((100% - 48px) / 3);
-  border: 1px solid #e7e9fc;
+ 
+  
 }
 
 .portfolio-image {
 }
+
 .portfolio-subtitle {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
