@@ -243,7 +243,6 @@ align-items: center;
 /*-------------------- People--------------------- */
 .people-container{
   padding: 32px 0;
-  margin-bottom: 8px;
   text-align: center;
 
 
@@ -289,6 +288,7 @@ padding-bottom: 120px;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 
@@ -314,7 +314,7 @@ padding-bottom: 120px;
 
 .portfolio-container{
   padding: 32px 16px;
-  margin-bottom: 8px;
+  
 }
 
 
@@ -346,6 +346,7 @@ padding-bottom: 120px;
   width: calc((100% - 48px) / 3);
   border: 1px solid #e7e9fc;
 }
+
 .portfolio-image {
 }
 .portfolio-subtitle {
@@ -355,6 +356,7 @@ padding-bottom: 120px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .portfolio-text {
   font-family: "Roboto", sans-serif;
