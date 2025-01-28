@@ -308,11 +308,13 @@ padding-bottom: 120px;
 .portfolio {
   color: #e7e9fc;
   padding: 120px 0;
-   
+  
 }
 
 .portfolio-container{
   padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
  
 }
 
@@ -336,6 +338,7 @@ padding-bottom: 120px;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  
 }
 .portfolio-item {
   width: calc((100% - 48px) / 3);
